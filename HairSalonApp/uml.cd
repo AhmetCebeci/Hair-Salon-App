@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HairSalonApp.Person">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HairSalonApp.Customer">
+    <Position X="14.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAAAIAAEAAAEAEASAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HairSalonApp.DataAccess">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAQAAAAEAAAAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HairSalonApp.Services">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAABAAAAAAAAAQAAEAEIAACAAAAAAA=</HashCode>
+      <FileName>Services.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HairSalonApp.Employee">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAACAQEAFAACAAAAAAAA=</HashCode>
+      <FileName>Hairdresser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HairSalonApp.Program">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
